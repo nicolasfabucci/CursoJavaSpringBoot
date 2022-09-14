@@ -4,6 +4,7 @@ public class ClasePersona {
     String nombre;
     String apellido;
 
+
     public ClasePersona() {
     }
 

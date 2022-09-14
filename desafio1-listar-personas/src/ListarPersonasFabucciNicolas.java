@@ -5,13 +5,11 @@ import java.util.List;
 import java.util.function.Function;
 
 public class ListarPersonasFabucciNicolas {
-    
-    
 
     public static void main(String[] args) {
         
         ArrayList<ClasePersona> lista = new ArrayList<>();
-             
+
         lista.add(new ClasePersona("Nicolas","Fabucci"));
         lista.add(new ClasePersona("Roberto","Garcia"));
         lista.add(new ClasePersona("Homero","Simpson"));
