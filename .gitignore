@@ -1,3 +1,11 @@
 /.metadata/
 .idea/
 *.class
+clase-11/calculadora/.gitignore
+clase-11/calculadora/mvnw
+clase-11/calculadora/mvnw.cmd
+clase-11/calculadora/.mvn/wrapper/maven-wrapper.jar
+clase-11/calculadora/.mvn/wrapper/maven-wrapper.properties
+clase-6/clase-6.iml
+clase-8/clase-8.iml
+desafio1-listar-personas/desafio1-listar-personas.iml
